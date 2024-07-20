@@ -1,0 +1,20 @@
+name: '[Updating markdown files]'
+
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+        paths:
+            - 'my-submissions/**'
+
+permissions:
+    contents: write
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        
+        steps:
+            - name: Call and run markdown generator
+              uses: Zanger67/Wikileet@testing2
