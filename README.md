@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (1 solved)
+# **[LeetCode Records](https://leetcode.com/u/Zanger/)** (2 solved)
 
 > My LeetCode Profile: [Zanger](https://leetcode.com/u/Zanger/)
 
@@ -28,13 +28,14 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 
 ------
 
-[Array](<markdowns/by_topic/Array.md>), [Dynamic Programming](<markdowns/by_topic/Dynamic Programming.md>)
+[Array](<markdowns/by_topic/Array.md>), [Hash Table](<markdowns/by_topic/Hash Table.md>), [Dynamic Programming](<markdowns/by_topic/Dynamic Programming.md>)
 
 ------
 
 
 
 ## Questions
-|   # | Title                                                                                                      | Level   | Cats   | Solution                                                             | Languages   |
-|----:|:-----------------------------------------------------------------------------------------------------------|:--------|:-------|:---------------------------------------------------------------------|:------------|
-| 123 | [Best Time to Buy and Sell Stock III](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii>) | Hard    |        | [solution](<markdowns/_123. Best Time to Buy and Sell Stock III.md>) | py          |
+|   # | Title                                                                                                      | Level   | Cats      | Solution                                                             | Languages   |
+|----:|:-----------------------------------------------------------------------------------------------------------|:--------|:----------|:---------------------------------------------------------------------|:------------|
+|   1 | [Two Sum](<https://leetcode.com/problems/two-sum>)                                                         | Easy    | B75, N150 | [solution](<markdowns/_1. Two Sum.md>)                               | js          |
+| 123 | [Best Time to Buy and Sell Stock III](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii>) | Hard    |           | [solution](<markdowns/_123. Best Time to Buy and Sell Stock III.md>) | py          |
